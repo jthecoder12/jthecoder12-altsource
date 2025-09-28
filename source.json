@@ -7,17 +7,18 @@
     "website": "https://jthecoder12.github.io",
     "tintColor": "#171614",
     "featuredApps": [
-        "jthecoder12.moonswitch"
+        "com.jthecoder12.Moon-Switch"
     ],
     "apps": [
         {
             "name": "Moon Switch",
-            "bundleIdentifier": "jthecoder12.moonswitch",
+            "bundleIdentifier": "com.jthecoder12.Moon-Switch",
             "developerName": "jthecoder12",
             "subtitle": "My CodeNinjas game, now on iOS",
             "localizedDescription": "MoonSwitch is my black belt game for Code Ninjas. The game is based on Color Switch and is made with the Unity game engine.",
             "iconURL": "https://github.com/jthecoder12/MoonSwitch/blob/main/Assets/Billiard%20Balls/Textures/Ball_08.png?raw=true",
             "tintColor": "#5CA399",
+			"category": "games",
             "screenshots": [
                 "https://jthecoder12.github.io/assets/images/MoonSwitch/titlescreen.png",
                 "https://jthecoder12.github.io/assets/images/MoonSwitch/shop.png",
