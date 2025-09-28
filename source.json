@@ -45,6 +45,32 @@
                     "localizedDescription": "First, and probably only release"
                 }
             ]
+        },
+		{
+            "name": "Power Platformer",
+            "bundleIdentifier": "com.DefaultCompany.Power-Platformer",
+            "developerName": "jthecoder12",
+            "subtitle": "My Bigmode Game Jam 2025 game, now on iOS",
+            "localizedDescription": "This game may not look correct on smaller/wider screens like on iPhones. Power Platformer is a platformer game where every time you move, your power counter decreases. This was originally a game designed for PCs but now I have added a mobile user interface.",
+            "iconURL": "https://img.itch.zone/aW1nLzE5NjI2ODI5LmpwZw==/original/DuLNA4.jpg",
+            "tintColor": "#1d3446",
+			"category": "games",
+            "screenshots": [
+				{
+                	"imageURL": "https://jthecoder12.github.io/assets/images/PowerPlatformer/thumbnail.jpg",
+					"width": 621,
+					"height": 422
+				}
+            ],
+            "versions": [
+                {
+                    "version": "1.0.111",
+                    "date": "2025-09-28T07:00:00-22:24",
+                    "size": 32493899,
+                    "downloadURL": "https://github.com/jthecoder12/PowerPlatformer/releases/download/v1.0.111/jthecoder12.powerplatformer.ipa",
+                    "localizedDescription": "Original update description: Fixed another pause menu bug"
+                }
+            ]
         }
     ]
 }
