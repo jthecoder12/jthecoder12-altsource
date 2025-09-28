@@ -1,0 +1,37 @@
+{
+    "name": "jthecoder12's source",
+    "subtitle": "My iOS apps",
+    "description": "This is a collection of my iOS apps",
+    "iconURL": "https://raw.githubusercontent.com/jthecoder12/jthecoder12-altsource/1bde28ff50fa0508e3ec4b960b4341214b64994a/icon.png",
+    "headerURL": "https://raw.githubusercontent.com/jthecoder12/jthecoder12-altsource/1bde28ff50fa0508e3ec4b960b4341214b64994a/icon.png",
+    "website": "https://jthecoder12.github.io",
+    "tintColor": "#171614",
+    "featuredApps": [
+        "jthecoder12.moonswitch"
+    ],
+    "apps": [
+        {
+            "name": "Moon Switch",
+            "bundleIdentifier": "jthecoder12.moonswitch",
+            "developerName": "jthecoder12",
+            "subtitle": "My CodeNinjas game, now on iOS",
+            "localizedDescription": "MoonSwitch is my black belt game for Code Ninjas. The game is based on Color Switch and is made with the Unity game engine.",
+            "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/FishApp.png",
+            "tintColor": "#5CA399",
+            "screenshots": [
+                "https://jthecoder12.github.io/assets/images/MoonSwitch/titlescreen.png",
+                "https://jthecoder12.github.io/assets/images/MoonSwitch/shop.png",
+				"https://jthecoder12.github.io/assets/images/MoonSwitch/game.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0",
+                    "date": "2025-09-27T07:00:00-02:50",
+                    "size": 48597631,
+                    "downloadURL": "https://github.com/jthecoder12/MoonSwitch/releases/download/v1.0/MoonSwitch.ipa",
+                    "localizedDescription": "First, and probably only release"
+                }
+            ]
+        }
+    ]
+}
