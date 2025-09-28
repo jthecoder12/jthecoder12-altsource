@@ -20,9 +20,21 @@
             "tintColor": "#5CA399",
 			"category": "games",
             "screenshots": [
-                "https://jthecoder12.github.io/assets/images/MoonSwitch/titlescreen.png",
-                "https://jthecoder12.github.io/assets/images/MoonSwitch/shop.png",
-				"https://jthecoder12.github.io/assets/images/MoonSwitch/game.png"
+				{
+                	"imageURL": "https://jthecoder12.github.io/assets/images/MoonSwitch/titlescreen.png",
+					"width": 480,
+					"height": 851
+				},
+                {
+                	"imageURL": "https://jthecoder12.github.io/assets/images/MoonSwitch/shop.png",
+					"width": 480,
+					"height": 851
+				},
+				{
+                	"imageURL": "https://jthecoder12.github.io/assets/images/MoonSwitch/game.png",
+					"width": 710,
+					"height": 470
+				}
             ],
             "versions": [
                 {
